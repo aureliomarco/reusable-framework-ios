@@ -8,7 +8,7 @@ How to make a Swift-based camera library that you can drag and drop into any iOS
 ### Setup
 - IDE: `Xcode 11.1` (Version of the Xcode where the project was builded)
 - Swift Version: `5.1`
-- iOS Target: `13.1`
+- iOS Target: `11.0`
 
 1. Clone or download the project
 ```
